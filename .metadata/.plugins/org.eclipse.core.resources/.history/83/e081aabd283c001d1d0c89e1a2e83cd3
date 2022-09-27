@@ -1,0 +1,17 @@
+package com.syntax.class12;
+
+public class StringDemo4 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		String str="Shah";
+		if(str.equals("shah")) {
+			System.out.println("I found it");
+		}
+		if(str.equalsIgnoreCase("shah")){
+			System.out.println("I found it with equalsIgnoreCase");
+		}
+	}
+
+}

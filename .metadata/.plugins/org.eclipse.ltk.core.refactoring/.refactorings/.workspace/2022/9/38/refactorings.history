@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;gitCladd01B14&apos; to &apos;gitClass01B14&apos;" description="Rename resource &apos;gitCladd01B14&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/gitCladd01B14" name="gitClass01B14" stamp="1663200466020" updateReferences="true"/>
+</session>

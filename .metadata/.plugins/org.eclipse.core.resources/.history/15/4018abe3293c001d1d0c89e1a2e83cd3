@@ -1,0 +1,13 @@
+package com.syntax.class12;
+
+public class StringDemo6 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+String str="I love java programming";
+char[] charArray=str.toCharArray();
+
+System.out.println(charArray[5]);
+	}
+
+}

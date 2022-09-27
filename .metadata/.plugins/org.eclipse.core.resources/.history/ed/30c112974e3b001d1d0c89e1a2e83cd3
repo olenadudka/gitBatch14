@@ -1,0 +1,21 @@
+package com.syntax.class11;
+
+public class PhonHW {
+	
+String made;
+String color;
+double price;
+String weight;
+String model;
+
+void call(){
+	System.out.println("The phone "+made+ " can make a calls.");
+}
+void takePictures() {
+	System.out.println("The phone "+made+" "+model+" can take a pictures");
+}
+public static void main (String[] args) {
+	
+}
+
+}

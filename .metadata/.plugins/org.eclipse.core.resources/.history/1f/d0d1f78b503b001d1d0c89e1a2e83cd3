@@ -1,0 +1,28 @@
+package HW;
+
+public class Phone {
+	
+String made;
+String color;
+double price;
+String weight;
+String model;
+
+void call(){
+	System.out.println("The phone "+made+ " can make a calls.");
+}
+void takePictures() {
+	System.out.println("The phone "+made+" "+model+" can take a pictures");
+}
+{System.out.println("The phone "+model+" has "+color+" and costs "+price );
+	}
+public static void main (String[] args) {
+	Phone iPhone=new Phone();
+	iPhone.made="Apple";
+	iPhone.price=800.00;
+	iPhone.model="IPhone 5";
+	iPhone.color="black";
+	iPhone.takePictures();
+}
+
+}

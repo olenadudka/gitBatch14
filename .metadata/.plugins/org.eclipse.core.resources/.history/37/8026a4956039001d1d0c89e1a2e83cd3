@@ -1,0 +1,19 @@
+package com.syntax.class10;
+
+import java.util.Scanner;
+
+public class repl78 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+Scanner scan=new Scanner(System.in);
+
+int[] numbers=new int[5];
+for(int i=0; i<numbers.length; i++){
+  int input=scan.nextInt();
+  System.out.println(input*10);}
+
+
+	}
+
+}

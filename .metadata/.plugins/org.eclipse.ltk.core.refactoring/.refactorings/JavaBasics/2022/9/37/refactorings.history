@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.syntax.class07.Loops&apos; to &apos;WhileLoopDemo&apos;&#x0D;&#x0A;- Original project: &apos;JavaBasics&apos;&#x0D;&#x0A;- Original element: &apos;com.syntax.class07.Loops&apos;&#x0D;&#x0A;- Renamed element: &apos;com.syntax.class07.WhileLoopDemo&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Loops&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.syntax.class07{Loops.java[Loops" matchStrategy="1" name="WhileLoopDemo" qualified="false" references="true" similarDeclarations="false" stamp="1662825292665" textual="false" version="1.0"/>
+</session>

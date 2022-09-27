@@ -1,0 +1,18 @@
+package com.syntax.class13;
+
+public class StringDemo1substring {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+String str="Today is Sunday";
+String day=str.substring(9);
+System.out.println(day);
+System.out.println(str.substring(6,8));
+
+System.out.println("________________________");
+
+
+System.out.println(str.charAt(4));
+	}
+
+}

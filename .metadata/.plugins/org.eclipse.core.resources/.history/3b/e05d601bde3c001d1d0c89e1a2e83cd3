@@ -1,0 +1,12 @@
+package com.syntax.class13;
+
+public class StringDemo1 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+String str="Today is Sunday";
+String day=str.substring(14,9);
+System.out.println(day);
+	}
+
+}
